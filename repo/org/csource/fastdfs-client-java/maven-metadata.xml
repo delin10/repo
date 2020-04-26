@@ -6,7 +6,8 @@
     <release>1.29-snapshot</release>
     <versions>
       <version>1.29-snapshot</version>
+      <version>1.29-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200426023133</lastUpdated>
+    <lastUpdated>20200426140311</lastUpdated>
   </versioning>
 </metadata>
